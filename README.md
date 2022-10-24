@@ -1,4 +1,4 @@
 # Hello-World
-WPR251-Assignment1
+WPR
 ________________________
 2022 Diploma Software Development
